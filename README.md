@@ -12,7 +12,7 @@ For the Beginner category of the [National Data Science Challenge 2019][1] organ
 From the [competition Kaggle page][2]:
 > There are hundreds of thousands new products added to Shopee every day. To make relevant products easily discoverable, one fundamental challenge is to accurately extract relevant information from a large volume of products. For the National Data Science Challenge (NDSC) 2019 , we present this real-world challenge of building an automatic solution to extract product related information through machine learning techniques.
 >
-> The theme of NDSC 2019 is Product Information Extraction in the Wild - a challenge to build up:
+> The theme of NDSC 2019 is **Product Information Extraction in the Wild** - a challenge to build up:
 >
 > `an automatic solution to extract product related information from large volume of images and free text data.`
 >
