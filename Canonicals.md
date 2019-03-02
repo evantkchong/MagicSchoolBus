@@ -3,7 +3,7 @@
 ### Overall link to Dropbox
 https://www.dropbox.com/sh/5as0xuyn183dkuv/AACatapd-L0QGVibIZ6z7b8Pa
 
-### Kaggle Page Files
+### Kaggle Page Files (zipped)
 https://www.dropbox.com/sh/41rcbzh1rxg9u0d/AABjIqavxKcyXpnQcrjyD_KQa
 
 ### Image Files
