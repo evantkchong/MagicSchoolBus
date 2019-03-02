@@ -10,3 +10,6 @@ https://www.dropbox.com/sh/41rcbzh1rxg9u0d/AABjIqavxKcyXpnQcrjyD_KQa
 https://www.dropbox.com/s/odx6p7d9ja0t9q9/beauty_image.tar.gz
 https://www.dropbox.com/s/2ny6mjfffftnq27/mobile_image.tar.gz
 https://www.dropbox.com/s/hn1u6z7iw93qi6n/fashion_image.tar.gz
+
+### Colabs
+https://colab.research.google.com/drive/1V7vfw0-fWzBWsZVg2aeBnbpYUsiX4o4q
