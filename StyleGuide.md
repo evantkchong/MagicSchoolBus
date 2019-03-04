@@ -35,7 +35,7 @@ print(newdf.shape())
 
 ## Links/References
 * Include in `Canonicals.md`.
-* Include short description of link so that it's easier to come back to in future
+* Include short description of link so that it's easier to come back to in future. We'll likely need to cite in the final submission for NDSC.
 
 ## Misc
 * Miscallenous files go in folder `Misc`
