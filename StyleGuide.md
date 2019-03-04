@@ -37,6 +37,9 @@ print(newdf.shape())
 * Include in `Canonicals.md`.
 * Include short description of link so that it's easier to come back to in future
 
+## Misc
+* Miscallenous files go in folder `Misc`
+
 ## Weights
 * Weights generated from checkpoints for the `TitleClass` model should be stored in `Weights/TitleClass`
 * Weights generated from checkpoints for the `ImageClass` model should be stored in `Weights/ImageClass`
@@ -45,4 +48,6 @@ print(newdf.shape())
 * Checkpoint Weights should be named as following: `[ModelName]_[ddmmyy,DayStartedTraining]_[4DigitCheckpointoftheDay].h5`
 * Example: `TitleClass_040319_0021.h5`
 * This format will be subject to change, an alternative to consider is simply `[ModelName]_[ddmmyy]_[accuracy].h5`
+
+To Do: Figure out if legacy files should be kept and if so, how should file structure be changed to accomodate both new and old files
 
