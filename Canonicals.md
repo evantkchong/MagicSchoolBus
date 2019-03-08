@@ -2,6 +2,7 @@
 
 ### Overall link to Dropbox
 https://www.dropbox.com/sh/5as0xuyn183dkuv/AACatapd-L0QGVibIZ6z7b8Pa
+Image Dataset is now available on Google Drive as well.
 
 ### Kaggle Page Files (zipped)
 https://www.dropbox.com/sh/41rcbzh1rxg9u0d/AABjIqavxKcyXpnQcrjyD_KQa
@@ -21,3 +22,4 @@ https://github.com/maciejkula/glove-python
 
 ### Approaches for Merging Models
 https://machinelearningmastery.com/implementing-stacking-scratch-python/
+https://stackoverflow.com/questions/47060233/stacking-models-from-different-packages
