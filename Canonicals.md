@@ -18,3 +18,6 @@ https://blog.cambridgespark.com/robust-one-hot-encoding-in-python-3e29bfcec77e
 https://blog.keras.io/using-pre-trained-word-embeddings-in-a-keras-model.html
 https://towardsdatascience.com/introduction-to-word-embedding-and-word2vec-652d0c2060fa
 https://github.com/maciejkula/glove-python
+
+### Approaches for Merging Models
+https://machinelearningmastery.com/implementing-stacking-scratch-python/
