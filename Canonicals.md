@@ -14,7 +14,9 @@ https://www.dropbox.com/s/hn1u6z7iw93qi6n/fashion_image.tar.gz
 
 ### Image Files (Unzipped)
 Mobile - https://www.dropbox.com/sh/1repi3puh9cidzn/AADn-arLyba9gDUbw-4vWu4Ua?dl=0
+
 Fashion - https://www.dropbox.com/sh/55ssgo3y12jx2ch/AACL_CS8TcIKn0u4ENb3kbbla?dl=0
+
 Beauty - https://www.dropbox.com/sh/55ssgo3y12jx2ch/AACL_CS8TcIKn0u4ENb3kbbla?dl=0
 
 ### One Hot Encoding Example
