@@ -12,6 +12,11 @@ https://www.dropbox.com/s/odx6p7d9ja0t9q9/beauty_image.tar.gz
 https://www.dropbox.com/s/2ny6mjfffftnq27/mobile_image.tar.gz
 https://www.dropbox.com/s/hn1u6z7iw93qi6n/fashion_image.tar.gz
 
+### Image Files (Unzipped)
+Mobile - https://www.dropbox.com/sh/1repi3puh9cidzn/AADn-arLyba9gDUbw-4vWu4Ua?dl=0
+Fashion - https://www.dropbox.com/sh/55ssgo3y12jx2ch/AACL_CS8TcIKn0u4ENb3kbbla?dl=0
+Beauty - https://www.dropbox.com/sh/55ssgo3y12jx2ch/AACL_CS8TcIKn0u4ENb3kbbla?dl=0
+
 ### One Hot Encoding Example
 https://blog.cambridgespark.com/robust-one-hot-encoding-in-python-3e29bfcec77e
 
