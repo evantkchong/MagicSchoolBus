@@ -21,8 +21,7 @@ From the [competition Kaggle page][2]:
 > On this Kaggle page, we introduce the junior-level product category classification task with beginner category information. Participants are required to determine the category of a product given its image and title. For those who are also interested in advanced task using Advanced Category data, please refer to Product Information Extraction Kaggle page for more details.
 
 ## Methodology
-As the competition is currently on-going, we are unable to provide details of our project at the moment.
-This repo will be updated at the end of the competition on 26th March 2019.
+[Under Construction]
 
 [1]: https://careers.shopee.sg/ndsc/
 [2]: https://www.kaggle.com/c/ndsc-beginner
